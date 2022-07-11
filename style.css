@@ -1,0 +1,31 @@
+/* header section */
+.body{
+  background-color: #ced8e2;
+}
+.body header{
+  background-color: #112b3c;
+  color: #ced8e2;
+  border-radius: 13px;
+}
+.body header img{
+  height: 50px;
+}
+/* infoSection */
+#infoSection{
+  background-color: #112b3c;
+  border-radius: 25px;
+  height: calc(100vh - 150px);
+}
+.card-img-overlay{
+  backdrop-filter: blur(10px);
+  border-radius: 35px;
+}
+/* formSection */
+#formSection{
+  background-color: #1dc9a2;
+  border-radius: 25px;
+}
+#resultado{
+  background-color: #ced8e2;
+  border-radius: 25px;
+}
